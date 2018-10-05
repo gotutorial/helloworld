@@ -9,9 +9,8 @@ You can find two projects in this repository:
 
 ## Installing Go
 
-In order to install Go framework follow these instructions:
+In order to install Go framework on Mac OS, follow these instructions:
 
-### Mac OS
 1) Create Directories
 ```
 mkdir $HOME/go
@@ -28,7 +27,9 @@ export PATH=$PATH:$GOROOT/bin
 ```
 brew install go
 ```
+If you looking for installing Go framework on other operating systems visit this page in my website: http://kabiliravi.com/index.php/software/programming-languages/go-programming-language/install-go-and-glide/
 
 ## Write you first application
 1) Create a folder anywhere you like and call it anything you want. I called it **helloworld-basic** and you can find it in this repository
 2) Create a file with the extension of **.go**. You can give any name to that file. I named it **main.go**.
+
