@@ -9,27 +9,11 @@ You can find two projects in this repository:
 
 ## Installing Go
 
-In order to install Go framework on Mac OS, follow these instructions:
-
-1) Create Directories
-```
-mkdir $HOME/go
-mkdir -p $HOME/go/src/github.com/user
-```
-2) Setup your paths, you can have these exports in your user home **.bash_profile** file
-```
-export GOPATH=$HOME/go
-export GOROOT=/usr/local/opt/go/libexec
-export PATH=$PATH:$GOPATH/bin
-export PATH=$PATH:$GOROOT/bin
-```
-3) Install Go
-```
-brew install go
-```
-If you looking for installing Go framework on other operating systems visit this page in my website: http://kabiliravi.com/index.php/software/programming-languages/go-programming-language/install-go-and-glide/
+In order to install Go framework on visit my tutorial page here:
+http://kabiliravi.com/index.php/software/programming-languages/go-programming-language/install-go-and-glide/
 
 ## Write you first application
-1) Create a folder anywhere you like and call it anything you want. I called it **helloworld-basic** and you can find it in this repository
-2) Create a file with the extension of **.go**. You can give any name to that file. I named it **main.go**.
+Find the tutoral of how I wrote these **helloworld** applications here:
+http://kabiliravi.com/index.php/software/programming-languages/go-programming-language/write-your-first-application-hello-world/
+
 
