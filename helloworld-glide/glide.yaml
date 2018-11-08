@@ -1,0 +1,3 @@
+package: github.com/gotutorial/helloworld
+import:
+- package: github.com/dustin/go-humanize
