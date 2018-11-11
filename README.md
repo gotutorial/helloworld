@@ -28,6 +28,11 @@ Your go workspace directory should be under $GOPATH/src and $GOPATH will point t
 ```
 $ mkdir $GOPATH/src/gotutorial
 ```
+### Clone the helloworld git repo
+Clone the helloworld git repository into gotutrial workspace folder by following commnad:
+```
+$ git clone https://github.com/gotutorial/helloworld.git
+```
 
 ## Write your first application
 Find the tutoral of how I wrote these **helloworld** applications here:
