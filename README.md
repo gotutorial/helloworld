@@ -12,8 +12,10 @@ You can find two projects in this repository:
 In order to install Go framework on visit my tutorial page here:
 http://kabiliravi.com/index.php/software/programming/golang/install/
 
-## Write you first application
+## Write your first application
 Find the tutoral of how I wrote these **helloworld** applications here:
 http://kabiliravi.com/index.php/software/programming/golang/helloworld/
 
-
+## Write your first application using Glide
+Find the tutoral of how I wrote these **helloworld using Glide** applications here:
+http://kabiliravi.com/index.php/software/programming/golang/helloworld-using-glide/
