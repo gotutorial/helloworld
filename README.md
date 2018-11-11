@@ -82,3 +82,4 @@ http://kabiliravi.com/index.php/software/programming/golang/helloworld/
 ### Write your first application using Glide
 Find the tutoral of how I wrote these **helloworld using Glide** applications here:
 http://kabiliravi.com/index.php/software/programming/golang/helloworld-using-glide/
+# weather-cli
