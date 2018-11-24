@@ -15,10 +15,6 @@ In order to run this application without any error and running make sure you hav
 In order to install Go framework on visit my tutorial page here:
 http://kabiliravi.com/index.php/software/programming/golang/install/
 
-### Installing Go
-In order to install Go framework on visit my tutorial page here:
-http://kabiliravi.com/index.php/software/programming/golang/install/
-
 ### Installing Glide
 For installing Glide you can visit this page to learn more about it:
 http://kabiliravi.com/index.php/software/programming/golang/install-glide/
